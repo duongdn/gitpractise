@@ -1,5 +1,3 @@
 thong 1
-<<<<<<< HEAD
-=======
 sua lan 1 nhanh Thong
->>>>>>> 
+sua lan 2
